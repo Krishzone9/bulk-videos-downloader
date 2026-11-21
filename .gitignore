@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.next/
+downloads/
+.env
+.env.local
+*.log
+
+NUL.mp4

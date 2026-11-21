@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Red rounded-rect YouTube-style background -->
+  <rect width="32" height="32" rx="8" fill="#ff0000"/>
+  <!-- Play triangle -->
+  <path d="M12.5 9 L12.5 23 L24 16 Z" fill="white"/>
+  <!-- Download arrow on the left side -->
+  <path d="M8 20 L8 24 L14 24 L14 20" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M11 17 L11 21" stroke="white" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M9 19.5 L11 21.5 L13 19.5" stroke="white" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
